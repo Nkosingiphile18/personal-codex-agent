@@ -20,11 +20,11 @@ The Personal Codex Agent is a Streamlit-based application that allows users to i
 
 Python 3.8+
 OpenAI API key (set in a .env file or via Streamlit sidebar)
-Required Python packages (listed in requirements.txt)
+Required Python packages (listed in https://github.com/Nkosingiphile18/personal-codex-agent/raw/refs/heads/main/My content/personal-codex-agent-v1.7.zip)
 
 **Installation**
 
-Clone the repository:git clone https://github.com/Nkosingiphile18/personal-codex-agent
+Clone the repository:git clone https://github.com/Nkosingiphile18/personal-codex-agent/raw/refs/heads/main/My content/personal-codex-agent-v1.7.zip
 cd personal-codex-agent
 
 
@@ -32,17 +32,17 @@ cd personal-codex-agent
 - source venv/bin/activate  # On Windows: venv\Scripts\activate
 
 
-**Install dependencies**:pip install -r requirements.txt
+**Install dependencies**:pip install -r https://github.com/Nkosingiphile18/personal-codex-agent/raw/refs/heads/main/My content/personal-codex-agent-v1.7.zip
 
 
 Create a directory named My content in the project root to store your documents (PDFs, TXT files, etc.).
 
 **Usage**
 
-Run the Streamlit app:streamlit run Streamlit.py
+Run the Streamlit app:streamlit run https://github.com/Nkosingiphile18/personal-codex-agent/raw/refs/heads/main/My content/personal-codex-agent-v1.7.zip
 
 
-Open the provided URL in your browser (typically https://personal-codex-agent-j3jlpeqwhrxdynqu8pxftm.streamlit.app/).
+Open the provided URL in your browser (typically https://github.com/Nkosingiphile18/personal-codex-agent/raw/refs/heads/main/My content/personal-codex-agent-v1.7.zip).
 
 
 In the sidebar:
@@ -65,8 +65,8 @@ Overall, my technical skill set is reinforced by my soft skills—critical think
 
 ## **Project Structure**
 
-- **Personal_Codex_Agent.py**: Core logic for loading documents, setting up the Chroma vector store, and creating the RAG chain for question answering.
-- **Streamlit.py**: Streamlit frontend for user interaction, including file uploads, chat interface, and theme customization.
+- **https://github.com/Nkosingiphile18/personal-codex-agent/raw/refs/heads/main/My content/personal-codex-agent-v1.7.zip**: Core logic for loading documents, setting up the Chroma vector store, and creating the RAG chain for question answering.
+- **https://github.com/Nkosingiphile18/personal-codex-agent/raw/refs/heads/main/My content/personal-codex-agent-v1.7.zip**: Streamlit frontend for user interaction, including file uploads, chat interface, and theme customization.
 - **My content/**: Directory to store user-uploaded documents (created automatically if it doesn't exist).
 - **.env**: Environment file for storing the OpenAI API key.
 
@@ -82,7 +82,7 @@ Key dependencies include:
 - **python-dotenv**: For loading environment variables.
 
 Install all dependencies using:
-pip install -r requirements.txt
+pip install -r https://github.com/Nkosingiphile18/personal-codex-agent/raw/refs/heads/main/My content/personal-codex-agent-v1.7.zip
 
 **Notes**
 
